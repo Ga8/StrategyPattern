@@ -9,6 +9,6 @@ public class Developer implements Role{
 
     @Override
     public String responsability() {
-        return "Developing application";
+        return "Develop application";
     }
 }
